@@ -1,0 +1,361 @@
+#col1{
+	font-size:40px;
+	color:rgb(0,0,106);
+	font-weight:bold;
+	padding:20px;
+	
+}
+#span1{
+	font-size:25px;
+	color:rgb(255,88,9);
+}
+#col2{
+	text-align:right;
+	font-size:15px;
+	font-weight:lighter;
+	color:black;
+	padding:20px;
+}
+#col3{
+	background-color:rgb(0,0,106);
+	padding:10px;
+	text-align:center;
+	color:white;
+	font-size:15px;
+	border-bottom:3px solid rgb(255,88,9);
+}
+#link{
+	text-decoration:none;
+	color:white;
+	font-weight:bold;
+}
+#col3:hover{
+	background-color:rgb(255,88,9);
+}
+#col4{
+	background-color:rgb(0,0,106);
+	padding:10px;
+	text-align:center;
+	color:white;
+	font-size:15px;
+	border-bottom:3px solid rgb(255,88,9);
+}	
+#col5{
+	
+	text-align:justify;
+	border-bottom:3px solid rgb(255,88,9);
+	border-right:1px solid rgb(255,88,9);
+    	
+}
+#link1{
+	text-decoration:none;
+	color: rgb(0,0,106);
+	
+}
+#heading1{
+	border-bottom:1px solid rgb(255,88,9); 
+	padding:20px;
+	font-size:25px;
+}
+#para1{
+	
+	padding:5px;
+	font-size:13px;
+}
+#heading1:hover{
+	background-color:rgb(255,88,9);
+	border-bottom:1px solid rgb(0,0,106);
+}
+#col6{
+	padding:10px;
+	border-bottom:3px solid rgb(255,88,9);
+}
+#row1{
+	background-image:url(file:///C:/Users/STARIZ/Desktop/Web%20Designing/assigment/Assignment4/4B/photos/img6.jpg);
+	padding:30px;
+	padding-bottom:30px;
+}
+#heading2{
+	background-color:rgb(0,0,106);
+	color:white;
+	text-align:center;
+	padding:10px;
+	font-weight:bold;
+}
+#span2{
+	font-size:20px;
+	padding:10px;
+	background-color:lightblue;
+	
+}
+#form1{
+	display:inline-block;
+	background-color:lightblue;
+	padding:20px;
+	font-weight:bold;
+	font-size:15px;
+	margin-bottom:40px;	
+	margin-left:65px;
+	margin-top:-5px;
+}
+#col8{
+	text-align:center;
+	font-style:italic;
+	font-weight:bold;
+	background-color:rgb(0,0,106);
+	border-top:3px solid silver;
+	color:silver;
+	padding:20px;
+	font-size:15px;
+}
+#btn1{
+	text-align:center;
+	width:150px;
+	height:50px;
+	border-radius:10px;
+	background-color:rgb(0,0,106);
+	color:white;
+	border:2px solid rgb(0,0,106);
+	
+}
+#btn1:hover{
+	background-color:lightblue;
+	border:2px solid rgb(0,0,106);
+	color:black;
+}
+	
+#col9{
+	font-size:30px;
+	color:white;
+	font-weight:bold;
+	text-align:right;
+	background-color:rgb(0,0,106);
+	border-bottom:3px solid rgb(255,88,9);
+}
+#col10{
+	background-image:url("../photos/img7.jpg");
+	padding-bottom:300px;
+	background-repeat: no-repeat;
+	font-weight:bold;
+	font-family:"Franklin Gothic Medium";
+	color:white;	
+}
+#heading3{
+	font-size:50px;
+}
+#main-img{
+margin-left:-15px;
+}
+#img2{
+margin-left:15px;	
+margin-right:20px;
+}
+#blog1{
+	color:silver;
+	font-size:15px;
+}
+#blog1:hover{
+	color: rgb(255,88,9);
+}
+#blog2{
+	text-align:justify;
+	font-size:16px;
+}
+#link3{
+	color:rgb(255,88,9);
+	font-size:16px;
+	text-decoration:underline;
+}
+#col12{
+	border-left:1px solid silver;
+}
+#head4{
+	text-align:center;
+	font-size:20px;
+	padding:10px;
+	border-bottom:1px solid rgb(232,232,232);
+}
+#btn2{
+	width:265px;
+	height:30px;
+	font-size:15px;
+	background-color:white;
+	border:2px solid rgb(0,0,106);
+color:rgb(0,0,106);}
+#btn2:hover{
+	background-color:rgb(0,0,106);
+	color:white;
+}
+#img3{
+margin-left:50px;
+border-radius:10%;
+}
+#img4{
+margin-left:50px;
+border-radius:10%;
+}
+#img5{
+margin-left:50px;
+border-radius:10%;
+}
+#logo{
+	border-radius:10%;
+}
+#head5{
+	padding:20px;
+	text-align:center;
+	font-family:"Franklin Gothic Medium";
+}
+#col14{
+	text-align:justify;
+	font-size:15px;
+	padding:20px;
+	background-color:white;
+}
+#row2{
+	background-image:url(file:///C:/Users/STARIZ/Desktop/Web%20Designing/assigment/Assignment4/4B/photos/img6.jpg);
+	padding:30px;
+	padding-bottom:70px;
+	padding-top:70px;
+}
+#head6{
+	padding-bottom:20px;
+	border-bottom:1px solid rgb(232,232,232);
+}
+#para2{
+	padding-top:10px;
+}
+#col15{
+	padding:10px;
+	text-align:center;
+	
+}
+#head7{
+	font-family:"Franklin Gothic Medium";
+	padding:10px;
+}
+#para3{
+	padding: 0px 100px;
+}
+#col16{
+	text-align:center;
+	border-top:1px solid orange;
+	border-bottom:1px solid orange;
+	padding:20px;
+}
+#table1{
+	text-align:center;
+}
+#link4{
+	text-decoration:none;
+	font-weight:bold;
+	color:black;
+	padding:0px 50px;
+}
+#link4:hover{
+	color:orange;
+}
+#col17{
+	border:1px solid rgb(232,232,232);
+	border-radius:10px;
+	padding:10px;
+}
+#question{
+	background-color:orange;
+	color:white;
+	border-radius:10px;
+	font-weight:bold;
+	padding:10px;
+}
+#answer{
+	text-align:justify;
+	padding:10px;
+	
+}
+#head8{
+	text-align:center;
+	font-family:"Franklin Gothic Medium";
+	color:white;
+	background-color:rgb(0,0,106);
+	border-radius:10px;
+	padding:10px;
+}
+#col18{
+	padding:10px;
+	border:1px solid rgb(255,88,9);
+	border-radius:10px;
+}
+#col19{
+	padding:10px;
+	border-bottom:3px solid rgb(255,88,9);
+	border-right: 1px solid rgb(255,88,9);
+	border-left: 1px solid rgb(255,88,9);
+}
+#col20{
+	padding:10px;
+	padding-top:40px;
+	font-size:15px;
+	border-bottom:3px solid rgb(255,88,9);
+	border-right: 1px solid rgb(255,88,9);
+}
+#btn3{
+	text-align:center;
+	width:150px;
+	height:50px;
+	border-radius:10px;
+	background-color:rgb(0,0,106);
+	color:white;
+	border:2px solid rgb(0,0,106);
+	font-weight:bold;
+	
+}
+#btn3:hover{
+	background-color:white;
+	border:2px solid rgb(0,0,106);
+	color:rgb(0,0,106);
+}
+#head10{
+display:inline-block;
+}
+#col21{
+	padding-left:50px;
+	display:inline-block;
+	margin-top:-50px;
+}
+#col22{
+	text-align:center;
+	font-family:"Franklin Gothic Medium";
+	padding:30px;
+}
+#head11{
+	text-align:center;
+	font-family:"Franklin Gothic Medium";
+	padding:20px;
+	font-weight:bold;
+}
+#col24{
+	padding:15px;
+	font-weight:bold:
+	font-size:15px;
+
+}
+#label1{
+	font-weight:bold;
+	font-size:15px;
+}
+#country{
+	text-align:center;
+	font-size:20px;
+	border-bottom:1px solid black;
+	padding:10px;
+}
+#country:hover{
+	color:orange;
+	border-bottom:1px solid orange;
+}
+#phone{
+	text-align:center;
+}
+
+
+	
